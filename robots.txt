@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eughteabu.github.io/eughteabu.txt.gz
+Sitemap: https://eughteabu.github.io/app/eughteabu.txt.gz
+Sitemap: https://eughteabu.github.io/assets/eughteabu.txt.gz
+Sitemap: https://eughteabu.github.io/css/eughteabu.txt.gz
+Sitemap: https://eughteabu.github.io/includes/eughteabu.txt.gz
+Sitemap: https://eughteabu.github.io/item/eughteabu.txt.gz
+Sitemap: https://eughteabu.github.io/src/eughteabu.txt.gz
